@@ -1,0 +1,6 @@
+year,series_id,annual_average,factor_to_2024usd,source,retrieved_utc
+2020,CUUR0000SA0,258.811,1.212039,https://api.bls.gov/publicAPI/v1/timeseries/data/,2026-10-03T09:22:23Z
+2021,CUUR0000SA0,270.970,1.157652,https://api.bls.gov/publicAPI/v1/timeseries/data/,2026-10-03T09:22:23Z
+2022,CUUR0000SA0,292.655,1.071873,https://api.bls.gov/publicAPI/v1/timeseries/data/,2026-10-03T09:22:23Z
+2023,CUUR0000SA0,304.702,1.029494,https://api.bls.gov/publicAPI/v1/timeseries/data/,2026-10-03T09:22:23Z
+2024,CUUR0000SA0,313.689,1.000000,https://api.bls.gov/publicAPI/v1/timeseries/data/,2026-10-03T09:22:23Z

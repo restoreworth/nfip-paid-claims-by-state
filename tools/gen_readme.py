@@ -52,7 +52,7 @@ def render(doc):
         '- `data/nfip_paid_claims_by_state.csv`: same records, same columns.',
         '- `data/cpi_u_annual.csv`: CPI-U annual averages and the factors used for the 2024-dollar column.',
         '- `tools/`: `download.py` (raw re-download), `aggregate.py` (builds `data/`), `crosscheck.mjs` '
-        '(independent recomputation in Node), `verify_counts.py` (server-side counts), `gen_readme.py` (this file).',
+        '(independent recomputation in Node), `verify_counts.py` (server-side counts), `refresh.py` (monthly check against the newest `asOfDate`; writes `data/` only with `--apply`), `gen_readme.py` (this file).',
         '',
         '## Method',
         '',

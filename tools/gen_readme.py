@@ -3,6 +3,7 @@
   python tools/gen_readme.py
 """
 import json, os
+from decimal import Decimal, ROUND_HALF_UP
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 
@@ -17,7 +18,8 @@ SITE = 'https://restoreworth.com/'
 
 
 def money(x):
-    return '' if x is None else f'{x:,.0f}'
+    # Half up, as the site page does (Math.round): f'{17532.5:,.0f}' would print 17,532, the page 17,533.
+    return '' if x is None else f'{Decimal(str(x)).quantize(Decimal(1), ROUND_HALF_UP):,}'
 
 
 def render(doc):

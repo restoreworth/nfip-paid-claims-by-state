@@ -55,7 +55,7 @@ Nominal US dollars unless stated. Event-dependent states: FL, IA, MS, NC, NJ, VT
 | IL | 1023 | 3,534 | 8,522 | 19,542 | 9,594 | Late July Flooding (6%) | 8,397 | no |
 | IN | 184 | 4,283 | 11,617 | 26,901 | 13,224 | Late July Flooding (1%) | 11,676 | no |
 | KS | 94 | | | | | insufficient data (n < 100) | | |
-| KY | 1472 | 7,347 | 17,532 | 44,090 | 19,524 | Late July Flooding (28%) | 13,787 | no |
+| KY | 1472 | 7,347 | 17,533 | 44,090 | 19,524 | Late July Flooding (28%) | 13,787 | no |
 | LA | 20010 | 9,392 | 36,262 | 77,235 | 41,558 | Hurricane Ida (50%) | 31,982 | no |
 | MA | 722 | 4,730 | 11,691 | 28,734 | 12,400 | December Nor'easter (8%) | 11,632 | no |
 | MD | 1171 | 4,339 | 10,853 | 25,099 | 12,171 | Hurricane Isaias (7%) | 10,833 | no |

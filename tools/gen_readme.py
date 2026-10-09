@@ -7,7 +7,7 @@ from decimal import Decimal, ROUND_HALF_UP
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 
-FEMA_NOTICE = ("This product uses the Federal Emergency Management Agency's OpenFEMA API, but is not endorsed by FEMA. "
+FEMA_NOTICE = ("This product uses the Federal Emergency Management Agency’s OpenFEMA API, but is not endorsed by FEMA. "
                "The Federal Government or FEMA cannot vouch for the data or analyses derived from these data after the "
                "data have been retrieved from the Agency's website(s).")
 FEMA_NOT_OFFICIAL = ("This dataset is not intended to be an official federal report, and should not be considered an "

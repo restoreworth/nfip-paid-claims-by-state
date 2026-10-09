@@ -15,7 +15,7 @@ RECS = {r['state']: r for r in DOC['records']}
 STATS = ['q1', 'median', 'q3', 'total_paid', 'median_2024usd', 'top_event', 'top_event_share',
          'median_excl_top_event', 'event_dependent']
 
-FEMA_NOTICE = ("This product uses the Federal Emergency Management Agency's OpenFEMA API, but is not endorsed by FEMA. "
+FEMA_NOTICE = ("This product uses the Federal Emergency Management Agency’s OpenFEMA API, but is not endorsed by FEMA. "
                "The Federal Government or FEMA cannot vouch for the data or analyses derived from these data after the "
                "data have been retrieved from the Agency's website(s).")
 ENDPOINT = 'https://www.fema.gov/api/open/v3/NfipClaims'

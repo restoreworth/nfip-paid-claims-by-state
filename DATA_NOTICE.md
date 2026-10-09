@@ -4,7 +4,7 @@ The files in `data/` are aggregates computed from FEMA's OpenFEMA API, endpoint
 https://www.fema.gov/api/open/v3/NfipClaims (version v3). The retrieval date and time (UTC) are recorded in
 `data/nfip_paid_claims_by_state.json` (`source.retrieved_utc`) and in every record.
 
-> This product uses the Federal Emergency Management Agency's OpenFEMA API, but is not endorsed by FEMA. The Federal Government or FEMA cannot vouch for the data or analyses derived from these data after the data have been retrieved from the Agency's website(s).
+> This product uses the Federal Emergency Management Agency’s OpenFEMA API, but is not endorsed by FEMA. The Federal Government or FEMA cannot vouch for the data or analyses derived from these data after the data have been retrieved from the Agency's website(s).
 
 This repository is not an official federal report. No FEMA or DHS logo or seal is used.
 

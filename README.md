@@ -11,7 +11,7 @@ Per-state statistics of the building amount paid by the National Flood Insurance
 - Dataset `asOfDate`: 2026-09-08
 - OpenFEMA terms and conditions: https://www.fema.gov/about/openfema/terms-conditions
 
-> This product uses the Federal Emergency Management Agency's OpenFEMA API, but is not endorsed by FEMA. The Federal Government or FEMA cannot vouch for the data or analyses derived from these data after the data have been retrieved from the Agency's website(s).
+> This product uses the Federal Emergency Management Agency’s OpenFEMA API, but is not endorsed by FEMA. The Federal Government or FEMA cannot vouch for the data or analyses derived from these data after the data have been retrieved from the Agency's website(s).
 
 FEMA states about the source dataset: "This dataset is not intended to be an official federal report, and should not be considered an official federal report."
 

@@ -117,7 +117,7 @@ class Repository(unittest.TestCase):
                 continue
             t = read(p)
             self.assertIsNone(banned.search(t), p)
-            self.assertTrue(all(u == 'https://restoreworth.com/' for u in site.findall(t)), p)
+            self.assertTrue(all(u in ('https://restoreworth.com/', 'https://restoreworth.com/nfip-flood-claims-by-state.html') for u in site.findall(t)), p)
 
 
 if __name__ == '__main__':
